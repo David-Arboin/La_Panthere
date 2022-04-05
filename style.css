@@ -118,7 +118,28 @@ a:hover {
 .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2);
 }
-
+.width__text
+{
+    margin-left: 19%;
+    margin-right: 19%;
+}
+.width__text_Maxime_Guibard
+{
+    margin-left: 8%;
+    margin-right: 8%;
+    font-style: italic;
+}
+.Maxime_Guibard
+{
+    font-size: 1.8vw;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+.width__text_Nous_Travaillons
+{
+    margin-left: 28%;
+    margin-right: 28%;
+}
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
