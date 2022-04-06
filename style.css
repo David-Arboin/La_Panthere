@@ -93,7 +93,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: white;
 }
 
 .d-bloc button:hover {
@@ -147,7 +147,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: white;
 }
 
 .d-bloc .a-btn:hover,
@@ -245,7 +245,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: white;
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -682,7 +682,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -742,7 +742,10 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
-
+#white
+{
+    color: white !important;
+}
 h3 {
     font-size: 15px;
     text-transform: uppercase;
@@ -771,7 +774,6 @@ h4 {
 
 .white {
     color: #ffffff!important;
-    background-color: rgb(0, 0, 0) !important;
     font-size: 20px;
     border-radius: 10px;
 }
@@ -802,7 +804,11 @@ h4 {
 .bgc-white {
     background-color: #FFFFFF;
 }
-
+.background__nous_souhaitons
+{
+    background-color: black;
+    padding: 10px;
+}
 .bgc-dark-slate-blue {
     background-color: #364577;
 }
@@ -816,7 +822,11 @@ h4 {
     background-color: black !important;
     border-radius: 10px;
 }
-
+.pret__pour
+{
+    width: 50%;
+    margin-left: 25%;
+}
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #0f0f0f!important;
